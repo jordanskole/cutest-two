@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => isset($_SERVER['DB1_HOST']) ? $_SERVER['DB1_HOST'] : 'localhost',
-			'database'  => isset($_SERVER['DB1_NAME']) ? $_SERVER['DB1_NAME'] : 'madelocal',
-			'username'  => isset($_SERVER['DB1_USER']) ? $_SERVER['DB1_USER'] : 'madelocal',
-			'password'  => isset($_SERVER['DB1_PASS']) ? $_SERVER['DB1_PASS'] : 'A9EEHVfLNaYMAtWm',
+			'database'  => isset($_SERVER['DB1_NAME']) ? $_SERVER['DB1_NAME'] : 'cutest-two',
+			'username'  => isset($_SERVER['DB1_USER']) ? $_SERVER['DB1_USER'] : 'cutest-two',
+			'password'  => isset($_SERVER['DB1_PASS']) ? $_SERVER['DB1_PASS'] : '5ZcXwvqVTKAhfs2Z',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
