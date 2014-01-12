@@ -273,6 +273,13 @@
         <div id="map-canvas" style="width:100%; height:500px;"></div> 
       </div><!-- END .row -->
       <footer class="section-odd"> 
+      <p class="pull-right">
+        Do you like this site?
+        <a href="mailto:jordan@skole.us?subject=I%20want%20a%20site%20like%20this!" title="E-mail Us">
+          Yes
+        </a>
+        / No
+      </p>
       </footer><!--END footer-->  
       </div><!--END main-->
     </div><!--END .row-->
