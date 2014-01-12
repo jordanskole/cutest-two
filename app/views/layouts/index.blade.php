@@ -92,6 +92,9 @@
         <a href="#section-6" class="button radius js-scroll">
           <i class="fa fa-envelope"></i> <span class="btn-label">Subscribe to updates!</span>
         </a>
+        <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Jordan%20%26%20Heather%20get%20Married&dates=20140816/20140816&details=&location=5530%20W%20BAY%20SHORE%20DR%2C%20NORTHPORT&trp=true&sprop=Jordan%20%26%20Heather%20get%20Married&sprop=name:http%3A%2F%2Fcutest-two.com" target="_blank" class="button radius">
+          <i class="fa fa fa-calendar-o"></i> <span class="btn-label">Add to calendar!</span>
+        </a>
       </div><!-- END .callout -->
 
       <div id="section-1" class="section-odd row">
