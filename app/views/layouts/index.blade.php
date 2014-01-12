@@ -230,14 +230,14 @@
               <legend>Will you be attending? (Please still complete your RSVP)</legend>
               <div class="large-6 columns">
                 <label for="radio1">
-                  <input name="ATTENDING" type="radio" id="radio1 mce-ATTENDING-0" style="display:none;" value="Attending" required>
+                  <input type="radio" value="1" name="group[21105]" id="radio1 mce-group[21105]-21105-0" style="display:none;" required>
                   <span class="custom radio"></span>
                   <span class="radio-label">Accepts with Pleasure!</span>
                 </label>
               </div>
               <div class="large-6 columns">
                 <label for="radio2">
-                  <input name="ATTENDING" type="radio" id="radio2 mce-ATTENDING-1" style="display:none;" value="Declining" required>
+                  <input type="radio" value="2" name="group[21105]" id="mce-group[21105]-21105-1 radio2" style="display:none;" required>
                   <span class="custom radio"></span>
                   <span class="radio-label">Declines with Regret.</span>
                 </label>
