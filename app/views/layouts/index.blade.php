@@ -178,9 +178,21 @@
             </li>
             <li>
               <a href="http://my.charitywater.org/cutest-two" class="block-logo">
-                <img src="img/charity_water.png" alt="Logo" />
+                <img src="/img/charity_water.png" alt="Logo" />
               </a>
-            </li>      
+            </li>
+            <li>
+              <a href="http://www.myregistry.com/Visitors/Giftlist.aspx?sid=071d6ac1-c633-437a-bb3c-6d4a1cf1e2a3" class="block-logo">
+                <img src="/img/my_registry.jpg" alt="Logo" />
+              </a>
+            </li>
+            <li>
+              <a href="http://www.target.com/wedd/registry/l_0DNuRozIu_hhkdAIJGDw" class="block-logo">
+                <img src="/img/target.png" alt="Logo" />
+              </a>
+            </li>
+            
+            
           </ul>
           <p class="content-block">
             We give thanks that even in a tough economy we are able to live a comfortable lifestyle. Through our adventures we have realized that not everyone is so fortunate. We are deeply appriciative of any gifts that you can provide to help us start our lives as a family, or in our honor to somebody less fortunate. 
