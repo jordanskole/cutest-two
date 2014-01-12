@@ -169,12 +169,12 @@
         <div class="small-12 large-6 large-centered columns wrapper">       
           <ul class="small-block-grid-1 large-block-grid-2 block-grid">
             <li>
-              <a href="#" class="block-logo">
+              <a href="https://secure.williams-sonoma.com/registry/rjmd2jtmw5/registry-list.html" class="block-logo">
                 <img src="/img/williams_sonoma.jpg" alt="Logo" />
               </a>
             </li>
             <li>
-              <a href="#" class="block-logo">
+              <a href="http://my.charitywater.org/cutest-two" class="block-logo">
                 <img src="img/charity_water.png" alt="Logo" />
               </a>
             </li>      
