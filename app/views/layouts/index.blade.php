@@ -57,7 +57,6 @@
             <li><a href="#section-6">Subscribe</a></li>  
           </ul>
         </nav>
-        <span class="ribbon"></span>
       </div><!-- END .nav-container .shadow -->         
     </aside>
 
