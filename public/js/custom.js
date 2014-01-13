@@ -112,7 +112,7 @@ function initialize() {
 		{
 			"featureType": "road",
 			"stylers": [
-				{ "hue": "#ff3300" },
+				{ "hue": "d2ffff" },
 				{ "gamma": 0.82 },
 				{ "visibility": "on" },
 				{ "saturation": 62 },
@@ -121,12 +121,12 @@ function initialize() {
 		},{
 			"featureType": "poi",
 			"stylers": [
-				{ "hue": "#ff0000" },
+				{ "hue": "#d2d2ff" },
 				{ "lightness": 14 }
 			]
 		},{
 			"stylers": [
-				{ "hue": "#ff0000" }
+				{ "hue": "#d2d2ff" }
 			]
 		}
 	]
