@@ -163,6 +163,71 @@
         </div>          
       </div><!-- END #section-2 -->
 
+      <div id="section-3" class="section-odd">
+        <div class="row">
+          <div class="section-title-container">       
+            <h2 class="section-title">Groomsmen</h2>
+            <span class="hearts"></span>
+          </div>
+          <div class="small-11 small-centered large-6 large-centered columns">      
+            <div class="flexslider">
+              <ul class="slides">
+                <li>
+                  <img src="/img/ben_skole.jpg" alt="Ben Skole" />
+                  <p class="flex-caption">
+                    I haven't known Ben my whole life, but I have known him for all of his. Ben and I spent our childhood running around the woods of New Hampshire together. We were together when we moved to Michigan in 1999, and we have been best friends our entire lives. 
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/stavros_christakos.jpg" alt="Steve Christakos" />
+                  <p class="flex-caption">
+                    One of my favorite memories of Steve and my friendship happened when we were in middle school. Steve's mom was out of town, and his sister Kiki had been tasked with watching him. It didn't take much for us to convince Kiki to let us hide in the basement until Steve got home. <br>
+                    For all his size and facial hair, Steve is actually the kindest of souls, he even fightens easily! We waited until he got comfortable (as he could be) before we fired up the circular saw in his basement and let out a howl. Good thing we planted the cameras at the front door!
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/kevin_kent.jpg" alt="Placeholder" />
+                  <p class="flex-caption">
+                    I've spent almost as much time living with Kevin as I have with Heather. Kevin and I signed the lease on our first apartment together before I was even 18, and I officially moved in on the morning of my 18th birthday. For years we continued our expansion of East Lansing real estate, always having the place to be. <br>
+                    Life hasn't always been as good as it is with Heather, as coming of age brings with it a fair set of heartbreak. Through all of the ups and downs Kevin and I have been there to support and love each other like brothers.
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/brandon_kearney.jpg" alt="Brandon Kearney" />
+                  <p class="flex-caption">
+                    Brandon and I were friends in high school, but it wasn't really until college that we became close friends. Brandon was always there in times of adventure, a level ship sailing in a sea of crazy. Brandon went to college in Oakland, so when Heather and I started dating he was there to show me around Rochester Hills. Brandon and Natasha are always up for a game night, and are one of our favorite couples couples. 
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/john_hubbard.jpg" alt="John Hubbard" />
+                  <p class="flex-caption">
+                    Grease covered hands and messy garages told the story of Hubbard and I. Friends since middle school shop classes we were always tinkering with something. If it was building speaker system that would peel the roof off a Buick or some sort of home-made artilary we would build it. It's no wonder that John grew up to be one of the smartest people I know. Even though we are full-fledged adults now, that doesn't stop John from putting his skills to the work of mischief.
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/terren_massey.jpg" alt="Placeholder" />
+                  <p class="flex-caption">
+                    Terren and I have been friends since middle school. All the way back when our shop teacher would scream at the whole group of us for misbehaving. After school we would bike to the mall together, and talk about girls. We could have never imagined that one day I would be marrying the most beautiful woman on earth, and Terren would be standing up in my wedding.
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/todd_johnson.jpg" alt="Placeholder" />
+                  <p class="flex-caption">
+                    Todd rarely opens his eyes, takes his shirt off more than Matthew Mcconaughey, and thinks he's batman. Careful around cameras with this one -- he will try and kiss you. 
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/john_venturini.jpg" alt="Placeholder" />
+                  <p class="flex-caption">
+                    More than friends at this point John will officially be family. John and I have formed a strong friendship based on the relationship between Heather and her sister Ashley (John's wife). The four of us go everywhere together, or at least everywhere with good food! 
+                  </p>
+                </li>
+              </ul>
+            </div><!-- END .flexslider -->
+          </div><!-- END .small-11 -->
+        </div><!-- END .row -->
+      </div><!-- END #section-3 -->
+
       <div id="section-5" class="section-odd">        
         <div class="section-title-container">       
           <h2 class="section-title">Gifts</h2>
@@ -308,6 +373,6 @@
 
     </script>
     <!-- google analytics -->
-    
+
   </body>
 </html>
