@@ -222,6 +222,12 @@
                     More than friends at this point John will officially be family. John and I have formed a strong friendship based on the relationship between Heather and her sister Ashley (John's wife). The four of us go everywhere together, or at least everywhere with good food! 
                   </p>
                 </li>
+                <li>
+                  <img src="/img/pat_seidlein.jpg" alt="Placeholder" />
+                  <p class="flex-caption">
+                    The Honorable Pat Seidlein! Okay, okay, so Pat isn't a judge, but he is one of the most honorable and thoughtful friends Heather and I have. He also happens to be ordained (and a major crimes prosecutor. Not relevant but makes for great conversation). That's why Heather and I are so excited that Pat will be officiating our wedding. We couldn't think of anybody better to perform our ceremony!
+                  </p>
+                </li>
               </ul>
             </div><!-- END .flexslider -->
           </div><!-- END .small-11 -->
