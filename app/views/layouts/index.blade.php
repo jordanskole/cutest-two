@@ -40,7 +40,8 @@
         <li><a href="#section-1">Our Story</a></li>
         <li><a href="#section-2">Photos</a></li>
         <li><a href="#section-5">Gifts</a></li>
-        <li><a href="#section-6">Subscribe</a></li>      
+        <li><a href="#section-6">Lodging</a></li>
+        <li><a href="#section-7">Subscribe</a></li>      
       </ul>
     </section>
   </nav><!-- END Navigation for mobile devices -->
@@ -55,7 +56,8 @@
             <li><a href="#section-1">Our Story</a></li>
             <li><a href="#section-2">Photos</a></li>
             <li><a href="#section-5">Gifts</a></li>
-            <li><a href="#section-6">Subscribe</a></li>  
+            <li><a href="#section-6">Lodging</a></li>
+            <li><a href="#section-7">Subscribe</a></li>  
           </ul>
         </nav>
       </div><!-- END .nav-container .shadow -->         
@@ -271,7 +273,43 @@
         </div>
       </div><!-- END #section-5 -->
 
-      <div id="section-6" class="js-form">          
+      <div id="section-6">        
+        <div class="section-title-container">       
+          <h2 class="section-title">Lodging</h2>
+          <span class="hearts"></span>
+        </div>
+        <div class="small-12 large-6 large-centered columns wrapper">       
+          <ul class="small-block-grid-1 large-block-grid-2 block-grid">
+            <li>
+              <a href="http://www.bayshore-resort.com/" class="block-logo">
+                <img src="/img/bayshore_resort.png" alt="Logo" />
+              </a>
+            </li>
+            <li>
+              <a href="http://www.holidayinnresorts.com/hotels/us/en/traverse-city/tvcmi/hoteldetail" class="block-logo">
+                <img src="/img/holiday_inn_bw.jpeg" alt="Logo" />
+              </a>
+            </li>
+            <li>
+              <a href="http://www.traversecitycambriasuites.com/" class="block-logo">
+                <img src="/img/cambria_suites.png" alt="Logo" />
+              </a>
+            </li>
+            <li>
+              <a href="http://www.whalebackinn.com/index.php" class="block-logo">
+                <img src="/img/whaleback_inn.svg" alt="Logo" />
+              </a>
+            </li>
+          </ul>
+          <p class="content-block" class="text-left">
+            Hotels near the venue are few and far between so please book your room as soon as possible. We will have shuttles going to and from the wedding to at least two of the Traverse City hotels. Please subscribe below for details as they arrive.
+            <br><br>
+            Leelanau Sands is nearby, as are several cottages, inns, and b&b's. We recommend checking <a href="http://vrbo.com">VRBO</a> and <a href="http://airbnb.com/">AirBnB</a> as well for options.
+          </p><!-- END .content-block -->
+        </div>
+      </div><!-- END #section-5 -->
+
+      <div id="section-7" class="js-form">          
         <div class="section-title-container">       
           <h2 class="section-title">Subscribe</h2>
           <span class="hearts"></span>
