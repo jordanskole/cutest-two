@@ -39,6 +39,7 @@
         <li><a href="#section-0"><i class="fa fa-arrow-up"></i></a></li>
         <li><a href="#section-1">Our Story</a></li>
         <li><a href="#section-2">Photos</a></li>
+        <li><a href="#section-3">Wedding Party</a></li>
         <li><a href="#section-5">Gifts</a></li>
         <li><a href="#section-6">Lodging</a></li>
         <li><a href="#section-7">Subscribe</a></li>      
@@ -55,6 +56,7 @@
           <ul class="side-nav primary-nav">
             <li><a href="#section-1">Our Story</a></li>
             <li><a href="#section-2">Photos</a></li>
+            <li><a href="#section-3">Wedding Party</a></li>
             <li><a href="#section-5">Gifts</a></li>
             <li><a href="#section-6">Lodging</a></li>
             <li><a href="#section-7">Subscribe</a></li>  
