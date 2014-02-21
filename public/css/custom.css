@@ -29,7 +29,7 @@ img {
 	background: rgba(210, 210, 255, 0.9);
 }
 
-.side-nav li a:hover {	
+.side-nav li a:hover, .side-nav li.active a {	
 	color:#d2d2ff;
 }
 
@@ -44,4 +44,12 @@ textarea:focus {
 
 .side-nav li a {
 	border-top: 1px solid rgba(210, 210, 255, 1);
+}
+
+button, .button {
+	background-color: #9683EC;
+}
+
+button:hover, button:focus, .button:hover, .button:focus {
+	background-color: #d2d2ff;
 }
