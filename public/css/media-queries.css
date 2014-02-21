@@ -9,10 +9,11 @@
 --------------------------------------------------------------------------------------
 
 	1. Screens that are at least 768px
-	2. Screens that are at least 1344px
-	3. iPads (landscape)
-	4. iPads (portrait)
-	5. Retina Image Support
+	2. Screens that are at least 940px
+	3. Screens that are at least 1280px
+	4. iPads (landscape)
+	5. iPads (portrait)
+	6. Retina Image Support
 
 -------------------------------------------------------------------------------------*/
 
@@ -89,14 +90,17 @@
 	/*==== Date Block ====*/
 
 	.date-container {
-		padding: 3em 3em 0;
+		padding: 3em;
 		text-align: left;
 	}
-	.date-container.col-1 {
-		text-align: right;
-		border-right: 1px solid #e4e4e4;
+	.date-container.col-1 {			
 		border-bottom: none;
+		text-align: right;
+		padding-bottom: 0;
 	}
+	.date-container.col-2 {
+		border-left: 1px solid #e4e4e4;
+	} 
 	.date-container .day-date {
 		font-size: 1.250em;		
 	}
@@ -120,10 +124,26 @@
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	2. Styles for screens that are at least 1344px; */
+/*	2. Styles for screens that are at least 940px; */
 /*-----------------------------------------------------------------------------------*/
 
-@media only screen and (min-width: 84em) {
+@media only screen and (min-width: 58.75em) {
+
+	.top-bar-section ul {
+		position: absolute;
+		right: 0;
+	}
+	.top-bar-section ul li {
+		border: none;
+	}
+
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	3. Styles for screens that are at least 1280px; */
+/*-----------------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 80em) {
 
 	/*==== The Logo ====*/
 
@@ -172,7 +192,7 @@
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	3. Styles for iPads (landscape) */
+/*	4. Styles for iPads (landscape) */
 /*-----------------------------------------------------------------------------------*/
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
@@ -205,7 +225,7 @@
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	4. Styles for iPads (portrait) */
+/*	5. Styles for iPads (portrait) */
 /*-----------------------------------------------------------------------------------*/
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
@@ -240,7 +260,7 @@
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	5. Retina Image Support */
+/*	6. Retina Image Support */
 /*-----------------------------------------------------------------------------------*/
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
