@@ -12,4 +12,4 @@
 */
 
 Route::get('/', ['as'=>'index', 'uses'=>'HomeController@index']);
-Route::get('full', ['as'=>'full', 'uses'=>'HomeController@full']);
+// Route::get('full', ['as'=>'full', 'uses'=>'HomeController@full']);
