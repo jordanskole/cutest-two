@@ -20,4 +20,9 @@ class HomeController extends BaseController {
 		return View::make('home.index');
 	}
 
+	public function full()
+	{
+		return View::make('home.full');
+	}
+
 }
