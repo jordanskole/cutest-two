@@ -115,7 +115,7 @@
                   Raised as a wild child in New Hampshire, where the moutains meet the sea, Jordan moved to Pure Michigan in 1999. He attended high school in Lansing, and discovered his passions at LCC. It wasn't until he transfered to MSU to study economics that he met Heather. 
                 </p>
                 <p>
-                  Jordan instantly recognized that he was in trouble when he caught himself falling in love with his roomate. During the summer of 2007, Heather and Jordan were inseperable, a trend that has continued ever since. Their adventures together have taken them to far corners of the earth, and will continue to propel them into one of life's greatest adventures in 2014. 
+                  Jordan instantly recognized that he was in trouble when he caught himself falling in love with his roommate. During the summer of 2007, Heather and Jordan were inseperable, a trend that has continued ever since. Their adventures together have taken them to far corners of the earth, and will continue to propel them into one of life's greatest adventures in 2014. 
                 </p>
                 <strong class="right">- Jordan's Story</strong>
               </blockquote>
@@ -180,7 +180,7 @@
                 <li>
                   <img src="/img/ben_skole.jpg" alt="Ben Skole" />
                   <p class="flex-caption">
-                    I haven't known Ben my whole life, but I have known him for all of his. Ben and I spent our childhood running around the woods of New Hampshire together. We were together when we moved to Michigan in 1999, and we have been best friends our entire lives. 
+                    I haven't known Ben my whole life, but I have known him for all of his. As my only brother, Ben and I spent our childhood running around the woods of New Hampshire together. We were together when we moved to Michigan in 1999, and we have been best friends our entire lives. 
                   </p>
                 </li>
                 <li>
