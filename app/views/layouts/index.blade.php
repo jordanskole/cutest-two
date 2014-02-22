@@ -306,7 +306,7 @@
           <p class="content-block" class="text-left">
             Hotels near the venue are few and far between so please book your room as soon as possible. We will have shuttles going to and from the wedding to at least two of the Traverse City hotels. Please subscribe below for details as they arrive.
             <br><br>
-            Leelanau Sands is nearby, as are several cottages, inns, and b&b's. We recommend checking <a href="http://vrbo.com">VRBO</a> and <a href="http://airbnb.com/">AirBnB</a> as well for options.
+            Leelanau Sands is nearby, as are several cottages, inns, and b&b's. We recommend checking <a href="http://vrbo.com">VRBO</a> and <a href="www.airbnb.com/c/jskole">AirBnB</a> as well for options.
           </p><!-- END .content-block -->
         </div>
       </div><!-- END #section-5 -->
