@@ -57,3 +57,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 .overlay-label {
 	background-color: rgba( 210, 210, 255, 0.7);
 }
+
+.hearts {
+	background-size: contain;
+}
