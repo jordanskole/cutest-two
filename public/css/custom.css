@@ -53,3 +53,7 @@ button, .button {
 button:hover, button:focus, .button:hover, .button:focus {
 	background-color: #d2d2ff;
 }
+
+.overlay-label {
+	background-color: rgba( 210, 210, 255, 0.7);
+}
