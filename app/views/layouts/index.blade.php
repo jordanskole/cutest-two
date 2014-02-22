@@ -239,6 +239,84 @@
         </div><!-- END .row -->
       </div><!-- END #section-3 -->
 
+      <div id="section-4">
+        <div class="row">       
+          <div class="section-title-container">       
+            <h2 class="section-title">Bridesmaids</h2>
+            <span class="hearts"></span>
+          </div>
+          <div class="small-11 small-centered large-6 large-centered columns">
+            <div class="flexslider">
+              <ul class="slides">
+                <li>
+                  <img src="/img/ash.jpg" alt="Placeholder" />
+                  <h4>Ashley - Maid of Honor</h4>
+                  <p class="flex-caption">
+                    Ashley was my very first friend on this earth. She also happens to be my lovely older sister! We are insanely close and unquestionably weird. I had the honor of being her maid of honor and she has already been amazing as mine! 
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/chels.jpg" alt="Placeholder" />
+                  <h4>Chelsea - Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Chelsea is my first baby cousin and although we used to clash while growing up, like when she poured chocolate syrup on my head ;), she is such an amazing person and friend to me now. We can be found busting out funky dance moves and making ugly faces at any time. Honestly we are more like sisters and I admire her so much!
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/jenna.jpg" alt="Placeholder" />
+                  <h4>Jenna - Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Jenna came along soon after Chelsea and was the sweetest little lady there ever was! She has since grown up to become the funniest person I know and is incredibly talented. I cannot say enough how proud I am of her and how much I love her! She's another sister rather than cousin! 
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/marisa.jpg" alt="Placeholder" />
+                  <h4>Marisa - Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Marisa and I first met in middle school, but we became close in high school. We have been attached at the hip ever since and I had the honor of standing up in her wedding two years ago. She is an incredibly kind and loyal person who I love dearly. I feel fortunate to have her as my friend and frequently call on her to make sure there is still normalcy in this world! (Oh! and her sweet little baby Sophia will be a part of our pint-sized gaggle!)
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/nat.jpg" alt="Placeholder" />
+                  <h4>Natalie - Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Natalie and I were pretty inseparable in high school, whether we were at cheerleading practice, eating salsa and chips or sneaking out together. We spent our first year at MSU together as well and have been great friends ever since! I stood up in Natalie's wedding in 2012 and am thrilled she's doing the same for me. Nat can always make me laugh and is such a caring, thoughtful friend! 
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/tricia.jpg" alt="Placeholder" />
+                  <h4>Tricia - Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Tricia and I met in high school where we spent most of our time goofing around. She was my honorary roommate at MSU freshmen year and we have been very close ever since. I stood up in Tricia's wedding in 2013 and had a blast! Our families are very close and I'm so happy to have her as a part of our big day. Tricia is a very down to earth person who I can count when I need something and to lighten any mood! 
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/monika.jpg" alt="Placeholder" />
+                  <h4>Monika - Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Monika and I met in middle school and have remained close after all these years. We were partners in crime in college, living together for 2 years. She is such a fun friend who is always up for anything.  
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/erin.jpg" alt="Placeholder" />
+                  <h4>Erin - Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Erin and I literally have the exact same silly sense of humor, so naturally, I LOVE to be around her and laugh my butt off! We met in high school and our families became very close. I've always thought of Erin as kind of a sister. She is such an amazing person and has always been so wonderful a friend.   
+                  </p>
+                </li>
+                <li>
+                  <img src="/img/katie.jpg" alt="Placeholder" />
+                  <h4>Katie - Junior Bridesmaid</h4>
+                  <p class="flex-caption">
+                    Katie is my littlest cousin by a wee bit. She came along and has been fanciful since day one! She is smart as a whip and artisticly talented, too. Katie has grown to be such a beautiful girl and I'm so happy to have her as my junior bridesmaid.  
+                  </p>
+                </li>
+              </ul>
+            </div><!-- END .flexslider -->
+          </div><!-- END .small-11 -->
+        </div><!-- END .row -->         
+      </div><!-- END #section-4 -->
+
       <div id="section-5" class="section-odd">        
         <div class="section-title-container">       
           <h2 class="section-title">Gifts</h2>
