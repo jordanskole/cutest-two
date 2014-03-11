@@ -25,4 +25,9 @@ class HomeController extends BaseController {
 		return View::make('home.full');
 	}
 
+	public function login()
+	{
+		return View::make('home.login');
+	}
+
 }

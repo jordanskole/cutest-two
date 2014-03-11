@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="/css/flexslider.css" />
   <link rel="stylesheet" href="/css/style.css" />
   <link rel="stylesheet" href="/css/media-queries.css" />
-  <link rel="stylesheet" href="/css/custom.css" />
+  <link rel="stylesheet" href="/css/default-theme.css" />
   <!-- Icons Font Are Awesome -->
   <link rel="stylesheet" href="/css/font-awesome.min.css" />
 

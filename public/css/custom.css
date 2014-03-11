@@ -1,63 +1,29 @@
-/* set custom colors */
+/* default custom styles */
 
-body {
-	color:#838383;
-	font-family:'Roboto Slab', serif;
-	text-align: center;
+.top10 {
+	padding-top: 10px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	color: #d2d2ff;
+.top20 {
+	padding-top: 20px;
 }
 
-a {
-	color:#d2d2ff;
-	-webkit-transition: all 300ms ease-out;
-	-moz-transition: all 300ms ease-out;
-	transition: all 300ms ease-out;
-}
-a:hover {
-	color:#d2d2ff;
-}
-img {
-	width: 100%;
-	height: auto;
+.top30 {
+	padding-top: 30px;
 }
 
-.side-nav {
-	background-color:#d2d2ff; /* fallback */
-	background: rgba(210, 210, 255, 0.9);
+.top40 {
+	padding-top: 40px;
 }
 
-.side-nav li a:hover, .side-nav li.active a {	
-	color:#d2d2ff;
+.top60 {
+	padding-top: 60px;
 }
 
-.logo a {
-	background-color: #d2d2ff; /* fallback */
-	background-color: rgba( 210, 210, 255, 0.9);
+.top80 {
+	padding-top: 80px;
 }
 
-textarea:focus {
-	border:1px solid #d2d2ff;
-}
-
-.side-nav li a {
-	border-top: 1px solid rgba(210, 210, 255, 1);
-}
-
-button, .button {
-	background-color: #9683EC;
-}
-
-button:hover, button:focus, .button:hover, .button:focus {
-	background-color: #d2d2ff;
-}
-
-.overlay-label {
-	background-color: rgba( 210, 210, 255, 0.7);
-}
-
-.hearts {
-	background-size: contain;
+.top100 {
+	padding-top: 100px;
 }
