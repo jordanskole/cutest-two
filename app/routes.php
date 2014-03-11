@@ -41,7 +41,7 @@ Route::group(['before'=>'passwordCheck'], function(){
     
 
     // eventually we will want to remove this route all together
-    Route::get('login', ['as'=>'login', 'uses'=>'HomeController@login']);
+    Route::get('login', ['as'=>'login', 'uses'=>'UsersController@getLogin']);
     Route::get('login/fb', ['as'=>'facebookLogin', 'uses'=>'UsersController@facebookLogin']);
     Route::get('login/fb/callback', ['as'=>'facebookCallback', 'uses'=>'UsersController@facebookCallback']);
 

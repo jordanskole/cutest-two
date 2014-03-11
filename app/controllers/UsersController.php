@@ -205,7 +205,7 @@ class UsersController extends BaseController {
     {
         // return the login view
         return View::make('users.login')
-            ->with('title', 'Users login view');
+            ->with('title', 'Login - The Cutest Two');
 
     }
 
