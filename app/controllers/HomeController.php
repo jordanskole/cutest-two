@@ -15,14 +15,15 @@ class HomeController extends BaseController {
 	|
 	*/
 
+
 	public function index()
 	{
-		return View::make('home.index');
+		return View::make('showcase.index');
 	}
 
-	public function full()
+	public function eternity()
 	{
-		return View::make('home.full');
+		return View::make('eternity.index');
 	}
 
 }

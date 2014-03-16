@@ -11,5 +11,7 @@
 |
 */
 
-Route::get('/', ['as'=>'index', 'uses'=>'HomeController@index']);
+
+Route::get('/', ['as'=>'home', 'uses'=>'HomeController@index']);
+Route::get('theme/eternity', ['as'=>'eternity', 'uses'=>'HomeController@eternity']);
 // Route::get('full', ['as'=>'full', 'uses'=>'HomeController@full']);
