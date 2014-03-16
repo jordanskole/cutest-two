@@ -1,4 +1,4 @@
-@extends('layouts.index')
+@extends('layouts.bootstrap')
 
 @section('stylesheets')
 @stop

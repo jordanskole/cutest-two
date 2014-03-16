@@ -19,6 +19,8 @@
   <!-- Icons Font Are Awesome -->
   <link rel="stylesheet" href="/css/font-awesome.min.css" />
 
+  @yield('stylesheets')
+
   <!-- Fav and touch icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple-touch-icon-144-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/apple-touch-icon-114-precomposed.png">
@@ -42,7 +44,10 @@
         <li><a href="#section-3">Wedding Party</a></li>
         <li><a href="#section-5">Gifts</a></li>
         <li><a href="#section-6">Lodging</a></li>
-        <li><a href="#section-7">Subscribe</a></li>      
+        <li><a href="#section-7">Subscribe</a></li>
+        @if(Auth::check())
+          <li><a href="/logout" class="external">Logout</a></li>
+        @endif
       </ul>
     </section>
   </nav><!-- END Navigation for mobile devices -->
@@ -59,7 +64,10 @@
             <li><a href="#section-3">Wedding Party</a></li>
             <li><a href="#section-5">Gifts</a></li>
             <li><a href="#section-6">Lodging</a></li>
-            <li><a href="#section-7">Subscribe</a></li>  
+            <li><a href="#section-7">Subscribe</a></li>
+            @if(Auth::check())
+              <li><a href="/logout" class="external">Logout</a></li>
+            @endif
           </ul>
         </nav>
       </div><!-- END .nav-container .shadow -->         
@@ -462,13 +470,17 @@
         <div id="map-canvas" style="width:100%; height:500px;"></div> 
       </div><!-- END .row -->
       <footer class="section-odd"> 
-      <p class="pull-right">
-        Do you like this site?
-        <a href="mailto:jordan@skole.us?subject=I%20want%20a%20site%20like%20this!" title="E-mail Us">
-          Yes
-        </a>
-        / No
-      </p>
+        @if(!Auth::check()) 
+          <p class="pull-left">
+            <a href="{{ URL::route('login')}}">Login</a> 
+          </p>
+        @endif
+        <p class="pull-right">          
+          Do you like this site?
+          <a href="mailto:jordan@skole.us?subject=I%20want%20a%20site%20like%20this!" title="E-mail Us">
+            Yes
+          </a> / No. 
+        </p>
       </footer><!--END footer-->  
       </div><!--END main-->
     </div><!--END .row-->
@@ -498,6 +510,7 @@
 
     </script>
     <!-- google analytics -->
+    @yield('scripts')
 
   </body>
 </html>
