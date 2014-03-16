@@ -25,4 +25,22 @@ class HomeController extends BaseController {
 		return View::make('home.full');
 	}
 
+	public function bootstrap()
+	{
+		return View::make('home.bootstrap')
+			->with('title', 'Bootstrap Test Theme');
+	}
+
+	public function twilli()
+	{
+		return View::make('twilli.index')
+			->with('title', 'Twilli Theme');
+	}
+
+	public function garis()
+	{
+		return View::make('garis.index')
+			->with('title', 'Garis Theme');
+	}
+
 }

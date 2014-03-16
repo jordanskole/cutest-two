@@ -31,6 +31,10 @@ Route::filter('passwordCheck', function(){
 |
 */
 
+// testing route
+Route::get('bootstrap',['as'=>'bootstrap', 'uses'=>'HomeController@bootstrap']);
+Route::get('twilli-theme',['as'=>'twilli', 'uses'=>'HomeController@twilli']);
+Route::get('garis-theme',['as'=>'twilli', 'uses'=>'HomeController@garis']);
 
 // filter all routes through the password check
 Route::group(['before'=>'passwordCheck'], function(){
@@ -54,7 +58,4 @@ Route::get('pw', ['before'=>'auth','as'=>'passwordChange', 'uses'=>'UsersControl
 Route::post('pw', ['before'=>'auth','as'=>'passwordStore', 'uses'=>'UsersController@passwordStore']);
 // make sure logout is accesable
 Route::get('logout', ['as'=>'logout', 'uses'=>'UsersController@logout']);
-
-
-
 Route::resource('weddings', 'WeddingsController');
