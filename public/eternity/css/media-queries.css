@@ -129,11 +129,11 @@
 
 @media only screen and (min-width: 58.75em) {
 
-	.top-bar-section ul {
+	.front-menu .top-bar-section ul {
 		position: absolute;
 		right: 0;
 	}
-	.top-bar-section ul li {
+	.front-menu .top-bar-section ul li {
 		border: none;
 	}
 
@@ -186,7 +186,7 @@
 	#main > .row {
 		padding-top: 0;
 	}
-	.top-bar {
+	.front-menu {
 		display: none!important;
 	}
 }
@@ -199,14 +199,14 @@
 	
 	/*==== The Top Bar ====*/
 
-	.top-bar {
+	.front-menu {
 		overflow: hidden;
 		position: fixed;
 	}
-	.top-bar-section ul {
+	.front-menu .top-bar-section ul {
 		float: right;
 	}
-	.top-bar-section ul li {
+	.front-menu .top-bar-section ul li {
 		border-bottom: none;
 	}
 

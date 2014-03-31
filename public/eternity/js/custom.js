@@ -32,7 +32,7 @@ $(document).ready(function() {
 	/*-----------------------------------------------------------------------------------*/
 
 	function backStrech() {
-		$("aside").backstretch([
+		$("#aside-nav").backstretch([
 			"/eternity/img/propose.jpg"
 
 			], {duration: 5000, fade: 1000});
