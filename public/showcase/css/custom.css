@@ -1,0 +1,19 @@
+/* line 51, ../sass/partials/_home.sass */
+.take-a-look {
+  cursor: pointer;
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+  padding: 8px 16px;
+  border: solid 2px white;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  font-weight: 900 !important;
+  letter-spacing: 0.1em;
+  -webkit-transition: all, 400ms;
+  -moz-transition: all, 400ms;
+  -o-transition: all, 400ms;
+  transition: all, 400ms;
+}

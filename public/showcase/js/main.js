@@ -16,12 +16,12 @@ $(document).ready(function(){
 
     BV.init();
     if (Modernizr.touch) {
-        BV.show('img/background1.jpg');
+        BV.show('/showcase/img/daisies.png');
     } else {
-        BV.show('video/timelapse.mp4',
+        BV.show('/showcase/video/daisies.mp4',
             {ambient:true,
             doLoop:true,
-            altSource:'video/timelapse.ogv'});
+            altSource:'/showcase/video/timelapse.ogv'});
 
     }
 
