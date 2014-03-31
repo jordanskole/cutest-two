@@ -13,5 +13,7 @@
 
 
 Route::get('/', ['as'=>'home', 'uses'=>'HomeController@index']);
-Route::get('theme/eternity', ['as'=>'eternity', 'uses'=>'HomeController@eternity']);
-// Route::get('full', ['as'=>'full', 'uses'=>'HomeController@full']);
+Route::get('themes/eternity', ['as'=>'eternity', 'uses'=>'HomeController@eternity']);
+Route::get('tour', ['as'=>'get_tour', 'uses'=>'HomeController@get_tour']);
+Route::post('tour', ['as'=>'tour', 'uses'=>'HomeController@tour']);
+Route::put('tour/put', ['as'=>'put_tour', 'uses'=>'HomeController@put_tour']);
