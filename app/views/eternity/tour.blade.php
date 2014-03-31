@@ -108,7 +108,7 @@
     <div class="small-12 large-10 large-centered columns">                        
       <div class="row">
         <div class="small-12 large-6 columns section-groom">
-          <img src="/eternity/img/jordan_square.jpg" alt="Groom"/>
+          <img data-step="5" data-intro="Upload a photo from anywhere using InkFilePicker" src="/eternity/img/jordan_square.jpg" alt="Groom"/>
           <blockquote class="caption-1">
             <p>
               Raised as a wild child in New Hampshire, where the moutains meet the sea, Jordan moved to Pure Michigan in 1999. He attended high school in Lansing, and discovered his passions at LCC. It wasn't until he transfered to MSU to study economics that he met Heather. 
@@ -137,11 +137,11 @@
       <h2 class="section-title">Photos</h2>
       <span class="hearts"></span>
     </div>
-    <div class="small-12 columns">
+    <div class="small-12 columns" >
       <ul class="clearing-thumbs" data-clearing>
         <li>
           <a href="/eternity/img/engagement_2.jpg">
-            <img src="/eternity/img/engagement_2.jpg" alt="The Engagement" class="fade-in">
+            <img src="/eternity/img/engagement_2.jpg" alt="The Engagement" class="fade-in" data-step="6" data-intro="Upload as many photos as you need to tell your story.">
             <span class="overlay-label">The Engagement</span>
           </a>
         </li>
@@ -170,14 +170,14 @@
   <div id="section-3" class="section-odd">
     <div class="row">
       <div class="section-title-container">       
-        <h2 class="section-title">Groomsmen</h2>
+        <h2 class="section-title" data-step="7" data-intro="Wedding parties vary in size. No worries, upload as few or as many as you need.">Groomsmen</h2>
         <span class="hearts"></span>
       </div>
       <div class="small-11 small-centered large-6 large-centered columns">      
         <div class="flexslider">
           <ul class="slides">
             <li>
-              <img src="/eternity/img/ben_skole.jpg" alt="Ben Skole" />
+              <img src="/eternity/img/ben_skole.jpg" alt="Ben Skole"/>
               <p class="flex-caption">
                 I haven't known Ben my whole life, but I have known him for all of his. As my only brother, Ben and I spent our childhood running around the woods of New Hampshire together. We were together when we moved to Michigan in 1999, and we have been best friends our entire lives. 
               </p>
@@ -316,7 +316,7 @@
     </div><!-- END .row -->         
   </div><!-- END #section-4 -->
 
-  <div id="section-5" class="section-odd">        
+  <div id="section-5" class="section-odd" >        
     <div class="section-title-container">       
       <h2 class="section-title">Gifts</h2>
       <span class="hearts"></span>
@@ -325,7 +325,7 @@
       <ul class="small-block-grid-1 large-block-grid-2 block-grid">
         <li>
           <a href="https://secure.williams-sonoma.com/registry/rjmd2jtmw5/registry-list.html" class="block-logo">
-            <img src="/eternity/img/williams_sonoma.jpg" alt="Logo" />
+            <img src="/eternity/img/williams_sonoma.jpg" alt="Logo" data-step="8" data-intro="Make sure people know where you have registered. Adding a registry is a breeze."/>
           </a>
         </li>
         <li>
@@ -388,7 +388,7 @@
     </div>
   </div><!-- END #section-5 -->
 
-  <div id="section-7" class="js-form">          
+  <div id="section-7" class="js-form" >          
     <div class="section-title-container">       
       <h2 class="section-title">Subscribe</h2>
       <span class="hearts"></span>
@@ -396,7 +396,7 @@
     <div class="small-12 large-10 large-centered columns">
 
       <form data-abide novalidate method="post" action="http://jordanskole.us2.list-manage.com/subscribe/post?u=00ce810e3100b769ecb6b2c05&amp;id=be38a16a58" class="rsvp-form custom validate" id="js-form mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">      
-        <fieldset class="rsvp-details">
+        <fieldset class="rsvp-details" data-step="9" data-intro="Sending emails from the app is easy. We provide beautiful templates and a simple interface to help you get started.">
           <!-- Displays a global alert if required fields are missing -->
           <div class="js-display"></div>
           <legend>

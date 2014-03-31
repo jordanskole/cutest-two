@@ -45,7 +45,7 @@ class HomeController extends BaseController {
 		$res = json_decode(curl_exec($ch));
 		curl_close($ch);
 
-		// lets set our dummy data to use this uuid
+		// lets set our data to use this uuid
 		$data->uuid = $res->uuids[0];
 		
 		return View::make('eternity.tour')
