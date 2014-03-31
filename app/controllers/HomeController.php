@@ -36,8 +36,20 @@ class HomeController extends BaseController {
 		$data->date = Carbon::createFromFormat('Y-m-d', $inputs['date']);
 		$data->venue = $inputs['venue'];
 		// $data->color = $inputs['color'];
+
+		// we need to get a clean uuid to use for our tour document
+		// GET 'http://jordanskole.cloudant.com/coolhouse-db/_uuids/'
+		$ch = curl_init('https://jordanskole.cloudant.com/_uuids');
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($ch, CURLOPT_HEADER, 0);
+		$res = json_decode(curl_exec($ch));
+		curl_close($ch);
+
+		// lets set our dummy data to use this uuid
+		$data->uuid = $res->uuids[0];
 		
-		return Redirect::route('get_tour');
+		return View::make('eternity.tour')
+			->with('data', $data);
 	}
 
 	public function get_tour()
